@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/berkin/AndroidStudioProjects/HealthMonitor/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5a74aa9bf978c6a61c016a2fa43adaa40d20d4b0">
+        <dex dex="/home/berkin/AndroidStudioProjects/HealthMonitor/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1ccda90d730b7d6860e0997666a79df9b85a1afe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/berkin/AndroidStudioProjects/HealthMonitor/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/home/berkin/AndroidStudioProjects/HealthMonitor/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_87f131690706abda98366252a75ce947eb1aba25/classes.dex" />
+    </item>
+
+</items>

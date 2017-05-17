@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">HealthMonitor</string>
+    <string name="select_activity">Select Activity</string>
+    <string name="hello">Hello User</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="age">Age</string>
+    <string name="eyeColor">Eye Color</string>
+    <string name="arm">ARM : </string>
+    <string name="brain">BRAIN : </string>
+    <string name="eye">EYE : </string>
+    <string name="heart">HEART : </string>
+    <string name="leg">LEG : </string>
+
+        <string-array name="activities">
+            <item>Jogging</item>
+            <item>Cycling</item>
+            <item>Football</item>
+            <item>Course</item>
+            <item>Cinema</item>
+            <item>Music</item>
+            <item>Eat</item>
+            <item>Sleep</item>
+        </string-array>
+
+</resources>
